@@ -36,7 +36,7 @@
 * Led group of 20 members.
 * Defined development process based on DevOps.
 * Designed system configuration on on-premises for analyzing tool for in-vehicle image processing application's log data.
-* Developed some applications as Proof of concept.
+* Developed some applications as PoC（Proof of concept）.
 * Negotiated with customers on making next term budget.
 * Designed a web system architecture（ front-end & back-end ）.
 
@@ -45,9 +45,6 @@
 * Designed a web system architecture（ front-end & back-end ）.
 * Experienced development flow that requirement analysis phase to release phase in development alive monitoring system for mobile-service provider. 
 * Negotiated with customers on deadlines for projected delivery dates.
-* Negotiated with customers on fixing bugs.
-* Developed an automation testing tool and reviewed members code.
-* Developed an android application for wearable device.
 
 <div style="page-break-before:always"></div>
 
@@ -57,11 +54,9 @@
 | -------------------- | ------------------------------------------------------------ |
 | Languages            | JavaScript, TypeScript , HTML/CSS・SCSS, C/C++, C#, swift, Java |
 | Platforms            | Node.js, iOS, Android, Windows, Ubuntu                       |
-| Frameworks & Library | Angular, React, Ionic, Cordova, Electron, Express.js, .NET Core, .NET Framework,  P5.js, Chart.js, D3.js, reveal.js, mermaid.js |
+| Frameworks & Library | Angular, React, Ionic, Express.js, .NET Core, .NET Framework |
 | Tools                | GitLab, GitHub, Git, SVN, Redmine, Excel, PowerPoint, Word, Outlook, draw.io, Docker, docker-compose |
 | Cloud                | AWS（EKS on Fargate, Cloudfront, VPC）                       |
-| Others               | SPA（Single Page Application）, PWA（Progressive Web Application）, DevOps |
-|                      |                                                              |
 
 ## EDUCATION
 
@@ -75,8 +70,4 @@
 
 ## OTHERS
 
-| Item       | Content                                                      |
-| ---------- | ------------------------------------------------------------ |
-| Language   | Native level of Japanese language, Intermediate level of English (TOEIC L&R 660 03/2019,  Attending English School) |
-| Activities | Experienced in participating in developer communities such as Flutter and Angular |
-
+Native level of Japanese language, Intermediate level of English (TOEIC L&R 660 03/2019,  Attending English School)
