@@ -1,0 +1,44 @@
+.card {
+    max-width: 400px;
+
+    .my-image {
+
+        width: 8rem;
+        height: 8rem;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 1rem;
+        box-shadow: inset 2px 2px 5px #b8b9be,inset -3px -3px 7px #fff !important;
+        border-radius: 50%;
+
+        img {
+            width: 100%;
+            border-radius: 50%;
+            margin: 0;
+        }
+    }
+
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1.5rem;
+        margin-top: 1rem;
+        padding-left: 0;
+
+        li {
+            font-size: 1.25rem;
+            font-weight: 300;
+            line-height: 1.6;
+
+            a {
+                color: #31344b;
+                margin-right: 0.5rem;
+                margin-left: 0.5rem;
+                text-decoration: none;
+                background-color: transparent;
+            }
+        }
+    }
+
+}

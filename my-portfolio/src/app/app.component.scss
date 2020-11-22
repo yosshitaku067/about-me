@@ -1,0 +1,40 @@
+.tab-nav {
+    top: 64px;
+    width: 100%;
+    position: sticky;
+    background-color: #fafafa;
+    z-index: 98;
+}
+
+.content {
+    width: 100%;
+    padding: 10px;
+    margin-top: 64px;
+    margin-bottom: 20px;
+
+    h1 {
+        font-weight: 400;
+        padding: 5px;
+        margin-block-start: 0.67em;
+        margin-block-end: 0.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Styles */
+    .tab-nav {
+        top: 56px
+    }
+    .content {
+        margin-top: 56px;
+    }
+  }
+  

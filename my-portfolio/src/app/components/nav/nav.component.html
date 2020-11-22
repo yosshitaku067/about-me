@@ -1,0 +1,4 @@
+<nav mat-tab-nav-bar mat-align-tabs="center">
+    <a mat-tab-link *ngFor="let nav of navs" (click)="activeLink = nav.path" [active]="currentRoute == nav.path"
+        [routerLink]="nav.path"> <i class="nav-icon" [ngClass]="nav.icon"></i>{{nav.name}} </a>
+</nav>
